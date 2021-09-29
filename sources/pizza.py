@@ -25,7 +25,7 @@ RECIPES = {
     'racletta': {
         'ingredients': {'raclette': 4, 'onion': 3, 'ham': 4, 'potatoes': 5},
         'price': 14,
-    }
+    },
     'margherita': {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
         'price': 10,
